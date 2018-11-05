@@ -1,0 +1,65 @@
+FIPS,State,County,Health Outcomes Z Score,Health Outcomes Rank,Health Factors Z Score,Health Factors Rank
+8001,Colorado,Adams,0.07,34,0.57,51
+8003,Colorado,Alamosa,0.65,49,0.17,36
+8005,Colorado,Arapahoe,-0.4,18,0.03,30
+8007,Colorado,Archuleta,-0.26,21,-0.06,28
+8009,Colorado,Baca,0.21,38,0.24,39
+8011,Colorado,Bent,0.51,47,0.64,56
+8013,Colorado,Boulder,-1.01,4,-0.76,5
+8014,Colorado,Broomfield,-0.85,6,-0.59,7
+8015,Colorado,Chaffee,0.06,33,-0.49,10
+8017,Colorado,Cheyenne,-0.17,25,-0.34,16
+8019,Colorado,Clear Creek,0.55,48,-0.07,27
+8021,Colorado,Conejos,-0.14,27,0.33,41
+8023,Colorado,Costilla,0.27,41,0.69,59
+8025,Colorado,Crowley,0.5,46,0.53,50
+8027,Colorado,Custer,-0.36,20,-0.07,26
+8029,Colorado,Delta,0.26,40,0.18,37
+8031,Colorado,Denver,0.42,45,0.68,58
+8033,Colorado,Dolores,-0.16,26,0.07,31
+8035,Colorado,Douglas,-1.28,2,-1.02,1
+8037,Colorado,Eagle,-1.06,3,-0.47,11
+8039,Colorado,Elbert,-0.74,8,-0.42,13
+8041,Colorado,El Paso,-0.03,30,0.16,35
+8043,Colorado,Fremont,0.67,51,0.48,48
+8045,Colorado,Garfield,-0.4,17,-0.02,29
+8047,Colorado,Gilpin,-0.02,31,-0.19,22
+8049,Colorado,Grand,-0.1,28,-0.37,15
+8051,Colorado,Gunnison,-0.59,12,-0.56,8
+8053,Colorado,Hinsdale,,,,
+8055,Colorado,Huerfano,2.15,59,0.63,55
+8057,Colorado,Jackson,,,,
+8059,Colorado,Jefferson,-0.51,13,-0.3,17
+8061,Colorado,Kiowa,,,,
+8063,Colorado,Kit Carson,-0.19,24,0.18,38
+8065,Colorado,Lake,1.2,58,0.36,44
+8067,Colorado,La Plata,-0.65,11,-0.37,14
+8069,Colorado,Larimer,-0.81,7,-0.44,12
+8071,Colorado,Las Animas,1.02,55,0.58,52
+8073,Colorado,Lincoln,0.37,44,0.13,34
+8075,Colorado,Logan,-0.41,15,0.29,40
+8077,Colorado,Mesa,0.03,32,0.12,33
+8079,Colorado,Mineral,,,,
+8081,Colorado,Moffat,0.66,50,0.51,49
+8083,Colorado,Montezuma,0.71,52,0.38,46
+8085,Colorado,Montrose,0.14,37,0.1,32
+8087,Colorado,Morgan,0.27,42,0.36,45
+8089,Colorado,Otero,1.12,56,0.61,53
+8091,Colorado,Ouray,-0.41,16,-0.61,6
+8093,Colorado,Park,-0.23,22,-0.23,21
+8095,Colorado,Phillips,-0.22,23,-0.28,19
+8097,Colorado,Pitkin,-1.29,1,-0.96,2
+8099,Colorado,Prowers,0.86,53,0.68,57
+8101,Colorado,Pueblo,0.87,54,0.47,47
+8103,Colorado,Rio Blanco,-0.09,29,-0.29,18
+8105,Colorado,Rio Grande,1.13,57,0.33,43
+8107,Colorado,Routt,-0.74,9,-0.77,3
+8109,Colorado,Saguache,0.28,43,0.63,54
+8111,Colorado,San Juan,,,,
+8113,Colorado,San Miguel,-0.42,14,-0.55,9
+8115,Colorado,Sedgwick,0.08,35,-0.15,24
+8117,Colorado,Summit,-0.94,5,-0.77,4
+8119,Colorado,Teller,0.21,39,-0.24,20
+8121,Colorado,Washington,0.11,36,-0.13,25
+8123,Colorado,Weld,-0.4,19,0.33,42
+8125,Colorado,Yuma,-0.73,10,-0.18,23
